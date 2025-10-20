@@ -1,0 +1,10 @@
+table,
+th,
+tr,
+td {
+    border: 1px solid teal;
+    width: 2%;
+    flex: 100%;
+    border-collapse: collapse;
+    background-color: rgb(238, 228, 228);
+}
